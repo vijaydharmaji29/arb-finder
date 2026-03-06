@@ -1,0 +1,9 @@
+prefect
+prefect_github
+pandas
+psycopg2-binary
+chromadb
+numpy
+sentence-transformers
+python-dotenv
+openai
